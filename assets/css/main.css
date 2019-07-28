@@ -2531,7 +2531,7 @@
 				}
 
 				ul.icons li .icon {
-					color: inherit;
+					/* color: inherit; */
 				}
 
 					ul.icons li .icon:before {
