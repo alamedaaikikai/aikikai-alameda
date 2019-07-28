@@ -63,7 +63,7 @@
 
 	mark {
 		background-color: transparent;
-		color: inherit;
+		/* color: inherit; */
 	}
 
 	input::-moz-focus-inner {
